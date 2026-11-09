@@ -1,0 +1,21 @@
+LIBRARY XInput1_4
+EXPORTS
+    XInputGetState = pm_stub_0 @2
+    XInputSetState = pm_stub_1 @3
+    XInputGetCapabilities = pm_stub_2 @4
+    XInputEnable = pm_stub_3 @5
+    XInputGetAudioDeviceIds = pm_stub_4 @6
+    XInputGetBatteryInformation = pm_stub_5 @7
+    XInputGetKeystroke = pm_stub_6 @8
+    pm_ord100 = pm_stub_7 @100 NONAME
+    pm_ord101 = pm_stub_8 @101 NONAME
+    pm_ord102 = pm_stub_9 @102 NONAME
+    pm_ord103 = pm_stub_10 @103 NONAME
+    pm_ord104 = pm_stub_11 @104 NONAME
+    pm_ord108 = pm_stub_12 @108 NONAME
+    pymodder_hook
+    pymodder_unhook
+    pymodder_status
+    pymodder_dir
+    pymodder_version
+    pymodder_loader

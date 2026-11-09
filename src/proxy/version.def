@@ -1,0 +1,27 @@
+LIBRARY version
+EXPORTS
+    GetFileVersionInfoA = pm_stub_0
+    GetFileVersionInfoByHandle = pm_stub_1
+    GetFileVersionInfoExA = pm_stub_2
+    GetFileVersionInfoExW = pm_stub_3
+    GetFileVersionInfoSizeA = pm_stub_4
+    GetFileVersionInfoSizeExA = pm_stub_5
+    GetFileVersionInfoSizeExW = pm_stub_6
+    GetFileVersionInfoSizeW = pm_stub_7
+    GetFileVersionInfoW = pm_stub_8
+    VerFindFileA = pm_stub_9
+    VerFindFileW = pm_stub_10
+    VerInstallFileA = pm_stub_11
+    VerInstallFileW = pm_stub_12
+    VerLanguageNameA = pm_stub_13
+    VerLanguageNameW = pm_stub_14
+    VerQueryValueA = pm_stub_15
+    VerQueryValueIndexA = pm_stub_16
+    VerQueryValueIndexW = pm_stub_17
+    VerQueryValueW = pm_stub_18
+    pymodder_hook
+    pymodder_unhook
+    pymodder_status
+    pymodder_dir
+    pymodder_version
+    pymodder_loader

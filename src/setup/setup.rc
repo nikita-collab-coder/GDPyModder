@@ -1,0 +1,26 @@
+1 ICON "pymodder.ico"
+1 24 "setup.manifest"
+
+1 VERSIONINFO
+FILEVERSION 0,7,0,0
+PRODUCTVERSION 0,7,0,0
+FILEOS 0x40004
+FILETYPE 1
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904B0"
+    BEGIN
+      VALUE "CompanyName", "PyModder"
+      VALUE "FileDescription", "PyModder Setup"
+      VALUE "FileVersion", "0.7.0"
+      VALUE "ProductName", "PyModder"
+      VALUE "ProductVersion", "0.7.0-beta"
+      VALUE "OriginalFilename", "PyModder Setup.exe"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1200
+  END
+END
