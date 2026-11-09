@@ -1,0 +1,9 @@
+{
+  "reload_key": "F5",
+  "menu_key": "F6",
+  "console": false,
+  "disabled_mods": [],
+  "menu_button": true,
+  "pause_button": true,
+  "invert_scroll": false
+}
